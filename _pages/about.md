@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Autonomous Navigation Engineer, <a href="https://www.eplane.ai/">The ePlane Company</a>
+subtitle: <b>Autonomous Navigation Engineer</b>, <a href="https://www.eplane.ai/">The ePlane Company</a>
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
@@ -10,9 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Chennai, IN</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -27,7 +25,7 @@ My research interests lie in Computer Vision focusing on Visual Inertial Navigat
 
 I love to read books, fiction and non-fiction, play football and listen to Eminem. The horizon is gleaming with light, fast gathering intensity, and I'm expecting and hoping something great will soon emerge. :)
 
-Feel free to get in touch with me via <b>md.hamdaan19@gmail.com</b>
+Feel free to get in touch with me via email: <b>md.hamdaan19@gmail.com</b>
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
