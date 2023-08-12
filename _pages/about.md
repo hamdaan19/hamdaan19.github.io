@@ -17,9 +17,9 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi, I am Mohammad Hamdaan. Having my undergraduate studies in B.E. Mechanical Engineering in July 2022 from Anna University, I've since then worked as an Autnonomous Navigation Engineer at <a href="https://www.eplane.ai/">The ePlane Company</a>. 
+Hi, I am Mohammad Hamdaan. Having my finished undergraduate studies in B.E. Mechanical Engineering in July 2022 from Anna University, I've since then worked as an Autnonomous Navigation Engineer at <a href="https://www.eplane.ai/">The ePlane Company</a>. 
 
-My work at my current organization has involved developing algorithms for aerial vehicles including but not restricted to aircraft trajectory planning and optimization, autonomous precision landing, robot mapping and SLAM systems. 
+My work at my current organization has involved developing algorithms for aerial vehicles including but not restricted to Aircraft Trajectory Planning and Optimization, Autonomous Precision Landing, Robot Mapping and SLAM systems. 
 
 My research interests lie in Computer Vision focusing on Visual Inertial Navigation, Visual-SLAM, Motion Planning and also Optimization. 
 
