@@ -19,13 +19,13 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi, I am Mohammad Hamdaan. Having my finished undergraduate studies in B.E. Mechanical Engineering in July 2022 from Anna University, I've since then worked as an Autnonomous Navigation Engineer at <a href="https://www.linkedin.com/company/the-eplane-company/mycompany/">The ePlane Company</a>. 
 
-My work at my current organization has involved developing algorithms for aerial vehicles including but not restricted to Aircraft Trajectory Planning and Optimization, Autonomous Precision Landing, Robot Mapping and SLAM systems. 
+My work at my current organization has involved developing algorithms for aerial vehicles including but not restricted to Aircraft Trajectory Planning and Optimization, Autonomous Precision Landing, Robot Mapping and Localization systems. 
 
 My research interests lie in Computer Vision focusing on Visual Inertial Navigation, Visual-SLAM, Motion Planning and also Optimization. 
 
 I love to read books, fiction and non-fiction, play football and listen to Eminem. The horizon is gleaming with light, fast gathering intensity, and I'm expecting and hoping something great will soon emerge. :)
 
-Feel free to get in touch with me via email: <b>md.hamdaan19@gmail.com</b>
+Feel free to get in touch with me via email: <b>md.hamdaan19 [at] gmail [dot] com</b>
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
