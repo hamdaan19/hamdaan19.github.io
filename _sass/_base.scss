@@ -302,10 +302,11 @@ blockquote {
 // Social (bottom)
 
 .social {
-  text-align: center;
+  padding-top: 5%;    // Added padding 
+  text-align: center; // Aligned text to center
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
 
     a {
       i::before {
@@ -329,6 +330,7 @@ blockquote {
 
 // Footer
 footer.fixed-bottom {
+  text-align: center;
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
 
