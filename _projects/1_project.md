@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Autonomous Precision Landing
+description: Guiding an Unmanned Aerial Vehicle (UAV) to land autonomously
 img: assets/img/12.jpg
 importance: 1
+date: 2022-06-22
 category: technical
 related_publications: einstein1956investigations, einstein1950meaning
 ---

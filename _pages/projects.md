@@ -9,6 +9,30 @@ display_categories: [research, fun]
 horizontal: false
 ---
 
+<meta charset="UTF-8">
+
+<style type="text/css">
+<!--
+a:link {color: #000000; text-decoration: none; }
+a:active {color: #0000ff; text-decoration: none; }
+a:visited {color: #000000; text-decoration: none; }
+a:hover {color: red; text-decoration: none; }
+-->
+</style> 
+
+{% for project in site.projects %}
+
+  <p style="color:#737373"> &#128198; {{ project.date | date: "%b %Y"}}</p>
+  <h3>
+  <a href="{{ project.url }}">{{ project.title }}</a>
+  <h3>
+  <h6 style="color:#383838">{{ project.description }}</h6> 
+
+  <hr>
+  <br>
+{% endfor %}
+
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
